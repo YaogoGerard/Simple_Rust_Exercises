@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "Collatz_sequence",
+    "Fibonacci",
+    "Hello_world",
+    "Matrix_transposition",
+    "Simple_calculator",
+]
