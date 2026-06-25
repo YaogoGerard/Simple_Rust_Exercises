@@ -19,5 +19,9 @@ name = "Matrix_transposition"
 version = "0.1.0"
 
 [[package]]
+name = "Rmanager"
+version = "0.1.0"
+
+[[package]]
 name = "Simple_calculator"
 version = "0.1.0"

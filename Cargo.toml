@@ -3,6 +3,6 @@ members = [
     "Collatz_sequence",
     "Fibonacci",
     "Hello_world",
-    "Matrix_transposition",
+    "Matrix_transposition", "Rmanager",
     "Simple_calculator",
 ]
