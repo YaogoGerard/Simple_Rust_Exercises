@@ -43,6 +43,10 @@ fn main() {
                 }
             }
             3 => {
+                if list.is_empty() {
+                    println!("La liste est vide, rien à supprimer.");
+                    continue;
+                }
                 println!("{:-^25}", "The Articles List");
                 for (index, article) in (&list).iter().enumerate() {
                     if list.is_empty() {
@@ -61,8 +65,8 @@ fn main() {
                         continue;
                     }
                 };
-                for index in 0..list.len(){
-                    if index==(choice-1) as usize{
+                for index in 0..list.len() {
+                    if index == (choice - 1) as usize {
                         list.remove(index);
                         println!("the article is removed");
                     }

@@ -4,5 +4,5 @@ members = [
     "Fibonacci",
     "Hello_world",
     "Matrix_transposition", "Rmanager",
-    "Simple_calculator",
+    "Simple_calculator", "todo",
 ]
