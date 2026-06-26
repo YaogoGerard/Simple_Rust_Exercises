@@ -28,3 +28,8 @@ cargo run
 | `Matrix_transposition` | Transpose a 3x3 matrix | 2D arrays, unit tests |
 | `Rmanager` | Manage a shopping/article list (CRUD) | Vec, loops, basic CRUD |
 | `todo` | Persistent todo list app with JSON storage | serde, serialization, enums, file I/O |
+
+
+## Resources for French speakers
+
+- [Rust Tutorial (French)](https://blog.guillaume-gomez.fr/Rust) - A comprehensive Rust tutorial in French by Guillaume Gomez
